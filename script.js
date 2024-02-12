@@ -36,9 +36,9 @@ no.addEventListener("mouseenter",()=>{
 
 });
 
-function alrt(){
-    alert("Why don't click on Yessss???");
-}
+// function alrt(){
+//     alert("Why don't click on Yessss???");
+// }
 
-no.addEventListener("mouseenter",setTimeout(alrt,20000));
+// no.addEventListener("mouseenter",setTimeout(alrt,20000));
 
